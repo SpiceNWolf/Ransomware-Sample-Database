@@ -1,4 +1,4 @@
-Extension(s): 
+Extension(s):  
 ```
 Original extension encrypted using ROT-23
 ```
