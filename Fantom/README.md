@@ -1,3 +1,7 @@
+Resource(s): 
+```
+https://www.bleepingcomputer.com/news/security/fantom-ransomware-encrypts-your-files-while-pretending-to-be-windows-update/
+```
 Extension(s): 
 ```
 .fantom
