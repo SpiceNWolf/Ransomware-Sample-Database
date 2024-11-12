@@ -1,3 +1,7 @@
+Resource(s): 
+```
+https://www.malwarebytes.com/blog/news/2018/01/scarab-ransomware-new-variant-changes-tactics
+```
 Extension(s): 
 ```
 .[resque@plague.desi].scarab
