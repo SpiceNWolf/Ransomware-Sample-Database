@@ -1,3 +1,7 @@
+Resource(s): 
+```
+https://en.wikipedia.org/wiki/TeslaCrypt
+```
 Extension(s): 
 ```
 .ecc
