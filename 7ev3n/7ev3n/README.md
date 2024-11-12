@@ -1,3 +1,7 @@
+Resource(s): 
+```
+https://www.bleepingcomputer.com/news/security/7ev3n-ransomware-trashes-your-pc-and-then-demands-13-bitcoins/
+```
 Extension(s): 
 ```
 .R5A
