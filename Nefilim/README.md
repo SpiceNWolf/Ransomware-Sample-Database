@@ -1,8 +1,8 @@
-Extension(s): 
+Extension(s):  
 ```
 .NEFILIM
 ```
-Ransom Note(s): 
+Ransom Note(s):  
 ```
 NEFILIM-DECRYPT.txt
 ```
