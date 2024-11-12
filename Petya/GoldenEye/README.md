@@ -17,8 +17,8 @@ To purchase your key and restore your data, please follow these three easy steps
 
 	2. Visit one of the following pages with the Tor Browser:
 
-		http://golden5a4eqranh7.onion/u3NvJQyU
-		http://goldeny4vs3nyoht.onion/u3NvJQyU
+		http://golden5a4eqranh7.onion/User_ID
+		http://goldeny4vs3nyoht.onion/User_ID
 
 	3. Enter your personal decryption code there:
 
