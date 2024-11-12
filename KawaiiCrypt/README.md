@@ -1,4 +1,4 @@
-Information:
+Note(s): 
 ```
 Does not encrypt files.
 ```
