@@ -1,8 +1,8 @@
-Extension(s): 
+Extension(s):  
 ```
 .rapid
 ```
-Ransom Note(s): 
+Ransom Note(s):  
 ```
 How Recovery Files.txt
 ```
