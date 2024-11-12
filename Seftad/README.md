@@ -1,3 +1,7 @@
+Resource(s): 
+```
+https://securelist.com/and-now-an-mbr-ransomware/30626/
+```
 Ransom Note(s): 
 ```
 MBR Overwrite
