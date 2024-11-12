@@ -1,4 +1,4 @@
-Extension(s): 
+Extension(s):  
 ```
 .lockbit
 ```
