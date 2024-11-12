@@ -1,8 +1,8 @@
-Extension(s): 
+Extension(s):  
 ```
 .[User_ID].[sourcehack@nigge.rs].mkp
 ```
-Ransom Note(s): 
+Ransom Note(s):  
 ```
 +README-WARNING+.txt
 ```
