@@ -1,3 +1,7 @@
+Resource(s):
+```
+https://www.bleepingcomputer.com/news/security/ransomware-or-wiper-redboot-encrypts-files-but-also-modifies-partition-table/
+```
 Extension(s): 
 ```
 .locked
