@@ -1,3 +1,7 @@
+Resource(s): 
+```
+https://www.bleepingcomputer.com/news/security/rensenware-will-only-decrypt-files-if-victim-scores-2-billion-in-th12-game/
+```
 Extension(s): 
 ```
 .RENSENWARE
