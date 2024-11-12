@@ -4,8 +4,11 @@ Extension(s):
 ```
 Ransom Note(s): 
 ```
+_XiaoBa_Info_.vbs
+_XiaoBa_Info_.bmp
+_XiaoBa_Info_.hta
 Popup Window
 Wallpaper
 ```
-![ransomnote](https://github.com/amdfanboi/rnsmdb/blob/06d69d5b06f2490e89661c46673c6f485cd81e19/XiaoBa/English/ransomnote.PNG)
-![wallpaper](https://github.com/amdfanboi/rnsmdb/blob/06d69d5b06f2490e89661c46673c6f485cd81e19/XiaoBa/English/_XiaoBa_Info_.bmp)
+![XiaoBaE](https://github.com/user-attachments/assets/4f939194-bb59-4add-bde6-2a395a01f01e)
+![XiaoBaEWallpaper](https://github.com/user-attachments/assets/c6a89f54-5e30-4b33-88eb-bed0945cb53b)
