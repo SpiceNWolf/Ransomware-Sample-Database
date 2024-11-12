@@ -1,3 +1,7 @@
+Extension(s): 
+```
+.User_ID
+```
 Ransom Note(s): 
 ```
 MBR Overwrite
