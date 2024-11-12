@@ -1,4 +1,4 @@
-Extension(s): 
+Extension(s):  
 ```
 .Original_Extension[staff@vx-underground.org][Number].[User_ID]
 ```
