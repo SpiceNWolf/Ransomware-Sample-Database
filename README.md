@@ -8,6 +8,10 @@
 <p align="center"> This is home to a database of ransomware samples and variants complete with information and screenshots.</p>
 <p align="center"> The password to all of the '.7z' archives is 'infected', all lowercase and without the qoute marks.</p>
 
+<h1 align="center">Contribution</h1>
+<p align="center"> If you have any samples that aren't added to this database yet or have any new variants of existing ones.</p>
+<p align="center"> Do not hesitate to create a pull request or an issue with these new samples, just use a passworded 7z.</p>
+
 <h1 align="center">Disclaimer</h1>
 <p align="center"> I disclaim any and all liabilities for any issues arising from the usage or testing of these ransomware samples.</p>
 <p align="center"> By downloading any, you are doing so at your own risk and should always use a sandbox or VM.</p>
