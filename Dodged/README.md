@@ -1,3 +1,7 @@
+Resource(s): 
+```
+https://x.com/malwrhunterteam/status/1260249808423485440
+```
 Extension(s):  
 ```
 .dodged
