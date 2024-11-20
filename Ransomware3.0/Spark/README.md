@@ -6,4 +6,4 @@ Ransom Note(s):
 ```
 Popup Window
 ```
-![Spark](https://github.com/user-attachments/assets/bf462994-ec47-4e30-90b4-a558cb7471ab)
+![Spark](https://github.com/user-attachments/assets/c146f4c5-5ffd-4ea8-9990-20b1621c20d7)
