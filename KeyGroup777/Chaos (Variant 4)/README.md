@@ -5,6 +5,7 @@ Extension(s):
 Ransom Note(s): 
 ```
 cyber.txt
+Wallpaper
 ```
 ![225h8kdha](https://github.com/user-attachments/assets/c8d0a89a-bed8-4bd4-ae3f-e925304100b7)
 ```
