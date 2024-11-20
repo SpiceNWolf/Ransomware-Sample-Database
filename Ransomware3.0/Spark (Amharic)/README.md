@@ -6,4 +6,5 @@ Ransom Note(s):
 ```
 Popup Window
 ```
-![AmharicSpark](https://github.com/user-attachments/assets/bd477f12-28b4-4d27-9249-7f9a47ef4d70)
+![AmharicSpark](https://github.com/user-attachments/assets/e64c9a1c-3188-45a7-9402-27c28bbfc943)
+
