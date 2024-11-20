@@ -5,6 +5,7 @@ Extension(s):
 Ransom Note(s): 
 ```
 root.ini
+Wallpaper
 ```
 ![7wxd9s1mg](https://github.com/user-attachments/assets/5894cc0b-93c5-4010-8828-99ac94ef1b35)
 ```
